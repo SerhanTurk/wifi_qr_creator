@@ -32,13 +32,7 @@ git clone https://github.com/SerhanTurk/wifi_qr_creator.git
 cd wifi_qr_creator
 ```
 
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the script:
+2. Run the script:
 
 ```bash
 python wifi_qr_creator.py
